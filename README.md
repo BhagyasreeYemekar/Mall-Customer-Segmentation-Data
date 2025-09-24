@@ -1,4 +1,5 @@
 Mall Customer Segmentation
+
 This project applies data cleaning, preprocessing, and customer segmentation techniques to a retail dataset of mall customers. The goal is to understand customer spending behavior, group them into meaningful clusters, and generate insights that can guide targeted marketing strategies.
 
 📂 Project Structure
